@@ -1,0 +1,28 @@
+{
+  "name": "require6",
+  "version": "0.0.0",
+  "description": "A require hook for 6to5 that is library-appropriate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/require6.git"
+  },
+  "keywords": [
+    "6to5",
+    "es6",
+    "require",
+    "library"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/require6/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/require6",
+  "dependencies": {
+    "6to5": "^3.6.0"
+  }
+}
