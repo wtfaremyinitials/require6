@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/wtfaremyinitials/require6",
   "dependencies": {
-    "6to5": "^3.6.0"
+    "babel": "^4.0.1"
   }
 }
